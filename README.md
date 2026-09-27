@@ -1,17 +1,5 @@
-# praxis
+# 📌 praxis
 
-A new Flutter project.
+# -🛠️ project structure 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/55b18665-afc2-428c-9fbd-f4a544462c88" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
